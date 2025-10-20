@@ -1,5 +1,12 @@
 ## Comandos GIT
 
+- Configurar el usuario de git
+
+```shell
+git config --global user.name "Su Nombre"
+git congih --global user.email "Email"
+```
+
 - "git status" nos permite saber el estado actual de nuestro proyecto
 ```shell
 git status
